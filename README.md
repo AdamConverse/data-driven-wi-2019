@@ -5,7 +5,7 @@ Big Data & the NBA: Creating a Scalable ML Service
 *Prerequisites*
 - Clone this Repo
   - `git clone https://github.com/AdamConverse/data-driven-wi-2019.git`
-- Python 3 environment
+- Python 2.7 environment
   - `python -V`
 - Docker environment
   - `docker -v`
