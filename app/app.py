@@ -20,8 +20,17 @@ q = Queue(connection=conn)
 
 @app.route('/', methods=['GET'])
 def index():
-  app.logger.debug("/ request recieved")
+  app.logger.info("/ request recieved")
   return "Hello World!"
+
+@app.route('/test-job', methods=['GET'])
+def test_job():
+  app.logger.info("/test-job request recieved")
+  job = q.enqueue(tasks.my_task())
+
+  log = "Test Job Started. job_id: {}".format(job.id)
+  app.logger.info(log)
+  return log
 
 if __name__ == "__main__":
   port = int(os.environ.get('PORT', 8080))
