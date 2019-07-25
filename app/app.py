@@ -26,11 +26,17 @@ def index():
 @app.route('/test-job', methods=['GET'])
 def test_job():
   app.logger.info("/test-job request recieved")
-  job = q.enqueue(tasks.my_task())
+  job = q.enqueue(tasks.my_task)
 
   log = "Test Job Started. job_id: {}".format(job.id)
   app.logger.info(log)
   return log
+
+@app.route('/job/<job_id>', methods=['GET'])
+def job_id(job_id):
+  job = q.fetch_job(job_id)
+
+  return jsonify({"data": job.result})
 
 if __name__ == "__main__":
   port = int(os.environ.get('PORT', 8080))

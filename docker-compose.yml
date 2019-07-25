@@ -10,6 +10,11 @@ services:
       REDIS_URL: 'redis'
     volumes:
       - "./app:/app"
+    depends_on:
+      - redis
+    links:
+      - redis
+    restart: always
   worker:
     build:
       context: .
