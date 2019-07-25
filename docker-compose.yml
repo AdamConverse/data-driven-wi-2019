@@ -8,7 +8,7 @@ services:
     environment:
       DYNO: 'true'
     volumes:
-      - "./app:app"
+      - "./app:/app"
   worker:
     build:
       context: .
@@ -16,11 +16,11 @@ services:
     environment:
       DYNO: 'true'
       REDIS_URL: 'redis'
+    volumes:
+      - "./app:/app"
     depends_on:
       - redis
     links:
       - redis
-    volumes:
-      - "./app:app"
   redis:
     image: redis
