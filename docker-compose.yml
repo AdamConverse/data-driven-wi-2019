@@ -8,4 +8,4 @@ services:
     environment:
       DYNO: 'true'
     volumes:
-      - "./app:app"
+      - "./app:/app"
