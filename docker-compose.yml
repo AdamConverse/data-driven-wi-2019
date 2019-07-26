@@ -1,6 +1,11 @@
 version: "3.7"
+
 services:
   web:
-    dockerfile: Dockerfile
-  worker:
-    dockerfile: Dockerfile.worker
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      DYNO: 'true'
+  volumes:
+    - "./app:app"
