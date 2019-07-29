@@ -19,7 +19,7 @@ def post_to_slack():
   date = "07/29/2019"
   slack_client = SlackClient()
   if slack_client.has_posted(date) is None:
-    slack_client.post_minutes(num_games=len(df["teamAbbreviation"].unique())/2, date=date)
+    slack_client.post(num_games=len(df["teamAbbreviation"].unique())/2, date=date)
   return ""
 
 def run_simulations(date):
