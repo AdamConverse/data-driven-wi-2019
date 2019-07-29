@@ -23,6 +23,17 @@ def index():
   app.logger.info("/ request recieved")
   return "Hello World!"
 
+@app.route('/dropbox', methods=['GET'])
+def dropbox():
+  app.logger.info("Dropbox webhook challenge: {}".format(request.args.get('challenge')))
+  return request.args.get('challenge')
+
+@app.route('/dropbox', methods=['POST'])
+def dropbox_update():
+  app.logger.info("Webhook: {}".format(json.loads(request.data)))
+  q.enqueue(tasks.post_to_slack)
+  return ""
+
 @app.route('/test-job', methods=['GET'])
 def test_job():
   app.logger.info("/test-job request recieved")
