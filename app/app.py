@@ -30,7 +30,7 @@ def dropbox():
 
 @app.route('/dropbox', methods=['POST'])
 def dropbox_update():
-  app.logger.info("Webhook: {}".format(json.loads(request.data)))
+  app.logger.info("Webhook recieved")
   q.enqueue(tasks.post_to_slack)
   return ""
 
