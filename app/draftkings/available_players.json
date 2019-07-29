@@ -1,0 +1,1062 @@
+{
+  "draftables": [
+    {
+      "displayName": "Dario Saric", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 13.5, 
+          "value": 13.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 1, 
+      "playerId": 203967, 
+      "position": "SF/PF", 
+      "rosterSlotId": 1, 
+      "salary": 5500, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Robert Covington", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 21.5, 
+          "value": 21.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 2, 
+      "playerId": 203496, 
+      "position": "SF/PF", 
+      "rosterSlotId": 2, 
+      "salary": 4700, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Joel Embiid", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 44.0, 
+          "value": 44.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 3, 
+      "playerId": 203954, 
+      "position": "C", 
+      "rosterSlotId": 3, 
+      "salary": 8800, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Markelle Fultz", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 12.25, 
+          "value": 12.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 4, 
+      "playerId": 1628365, 
+      "position": "PG/SG", 
+      "rosterSlotId": 4, 
+      "salary": 5000, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Ben Simmons", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 61.75, 
+          "value": 61.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 5, 
+      "playerId": 1627732, 
+      "position": "PG/SF", 
+      "rosterSlotId": 5, 
+      "salary": 8400, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Amir Johnson", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 10.25, 
+          "value": 10.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 6, 
+      "playerId": 101161, 
+      "position": "PF/C", 
+      "rosterSlotId": 6, 
+      "salary": 3100, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "JJ Redick", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 21.0, 
+          "value": 21.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 7, 
+      "playerId": 200755, 
+      "position": "SG/SF", 
+      "rosterSlotId": 7, 
+      "salary": 4900, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "T.J. McConnell", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 9.75, 
+          "value": 9.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 8, 
+      "playerId": 204456, 
+      "position": "PG/SG", 
+      "rosterSlotId": 8, 
+      "salary": 3200, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Landry Shamet", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 2.25, 
+          "value": 2.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 9, 
+      "playerId": 1629013, 
+      "position": "PG/SG", 
+      "rosterSlotId": 9, 
+      "salary": 3000, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Furkan Korkmaz", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 0.0, 
+          "value": 0.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 10, 
+      "playerId": 1627788, 
+      "position": "SG", 
+      "rosterSlotId": 10, 
+      "salary": 3000, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Jonah Bolden", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 0.0, 
+          "value": 0.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 11, 
+      "playerId": 1628413, 
+      "position": "PF/C", 
+      "rosterSlotId": 11, 
+      "salary": 3000, 
+      "teamAbbreviation": "Philadelphia", 
+      "teamId": 3
+    }, 
+    {
+      "displayName": "Jayson Tatum", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 40.75, 
+          "value": 40.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 12, 
+      "playerId": 1628369, 
+      "position": "SF/PF", 
+      "rosterSlotId": 12, 
+      "salary": 5600, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Gordon Hayward", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 24.75, 
+          "value": 24.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 13, 
+      "playerId": 202330, 
+      "position": "SG/SF", 
+      "rosterSlotId": 13, 
+      "salary": 6500, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Al Horford", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 25.5, 
+          "value": 25.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 14, 
+      "playerId": 201143, 
+      "position": "PF/C", 
+      "rosterSlotId": 14, 
+      "salary": 6100, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Jaylen Brown", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 20.75, 
+          "value": 20.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 15, 
+      "playerId": 1627759, 
+      "position": "SG/SF", 
+      "rosterSlotId": 15, 
+      "salary": 5300, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Kyrie Irving", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 21.5, 
+          "value": 21.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 16, 
+      "playerId": 202681, 
+      "position": "PG", 
+      "rosterSlotId": 16, 
+      "salary": 7600, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Terry Rozier", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 24.5, 
+          "value": 24.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 17, 
+      "playerId": 1626179, 
+      "position": "PG/SG", 
+      "rosterSlotId": 17, 
+      "salary": 4500, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Marcus Morris", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 34.5, 
+          "value": 34.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 18, 
+      "playerId": 202694, 
+      "position": "SF/PF", 
+      "rosterSlotId": 18, 
+      "salary": 4200, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Marcus Smart", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 15.25, 
+          "value": 15.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 19, 
+      "playerId": 203935, 
+      "position": "PG/SG", 
+      "rosterSlotId": 19, 
+      "salary": 4400, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Aron Baynes", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 18.0, 
+          "value": 18.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 20, 
+      "playerId": 203382, 
+      "position": "C", 
+      "rosterSlotId": 20, 
+      "salary": 3900, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Daniel Theis", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 1.25, 
+          "value": 1.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 21, 
+      "playerId": 1628464, 
+      "position": "PF/C", 
+      "rosterSlotId": 21, 
+      "salary": 3500, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Guerschon Yabusele", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 0.0, 
+          "value": 0.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 22, 
+      "playerId": 1627824, 
+      "position": "PF/C", 
+      "rosterSlotId": 22, 
+      "salary": 3000, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Semi Ojeleye", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 1.25, 
+          "value": 1.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 23, 
+      "playerId": 1628400, 
+      "position": "SF/PF", 
+      "rosterSlotId": 23, 
+      "salary": 3000, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Brad Wanamaker", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 3.25, 
+          "value": 3.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 24, 
+      "playerId": 202954, 
+      "position": "PG", 
+      "rosterSlotId": 24, 
+      "salary": 3000, 
+      "teamAbbreviation": "Boston", 
+      "teamId": 2
+    }, 
+    {
+      "displayName": "Paul George", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 44.5, 
+          "value": 44.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 25, 
+      "playerId": 202331, 
+      "position": "SF/PF", 
+      "rosterSlotId": 25, 
+      "salary": 8000, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Patrick Patterson", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 17.25, 
+          "value": 17.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 26, 
+      "playerId": 202335, 
+      "position": "PF/C", 
+      "rosterSlotId": 26, 
+      "salary": 3800, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Steven Adams", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 41.25, 
+          "value": 41.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 27, 
+      "playerId": 203500, 
+      "position": "C", 
+      "rosterSlotId": 27, 
+      "salary": 5800, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Terrance Ferguson", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 6.0, 
+          "value": 6.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 28, 
+      "playerId": 1628390, 
+      "position": "SG/SF", 
+      "rosterSlotId": 28, 
+      "salary": 3300, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Dennis Schr\u00f6der", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 46.75, 
+          "value": 46.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 29, 
+      "playerId": 203471, 
+      "position": "PG/SG", 
+      "rosterSlotId": 29, 
+      "salary": 6300, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Alex Abrines", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 11.5, 
+          "value": 11.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 30, 
+      "playerId": 203518, 
+      "position": "SG/SF", 
+      "rosterSlotId": 30, 
+      "salary": 3200, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Jerami Grant", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 19.0, 
+          "value": 19.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 31, 
+      "playerId": 203924, 
+      "position": "SF/PF", 
+      "rosterSlotId": 31, 
+      "salary": 4300, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Raymond Felton", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 10.25, 
+          "value": 10.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 32, 
+      "playerId": 101109, 
+      "position": "PG/SG", 
+      "rosterSlotId": 32, 
+      "salary": 3700, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Nerlens Noel", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 17.25, 
+          "value": 17.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 33, 
+      "playerId": 203457, 
+      "position": "C", 
+      "rosterSlotId": 33, 
+      "salary": 3600, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Hamidou Diallo", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 8.75, 
+          "value": 8.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 34, 
+      "playerId": 1628977, 
+      "position": "SG/SF", 
+      "rosterSlotId": 34, 
+      "salary": 3100, 
+      "teamAbbreviation": "Oklahoma City", 
+      "teamId": 1
+    }, 
+    {
+      "displayName": "Kevin Durant", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 48.5, 
+          "value": 48.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 35, 
+      "playerId": 201142, 
+      "position": "SF/PF", 
+      "rosterSlotId": 35, 
+      "salary": 9000, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Draymond Green", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 28.75, 
+          "value": 28.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 36, 
+      "playerId": 203110, 
+      "position": "PF/C", 
+      "rosterSlotId": 36, 
+      "salary": 7300, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Damian Jones", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 23.75, 
+          "value": 23.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 37, 
+      "playerId": 1627745, 
+      "position": "C", 
+      "rosterSlotId": 37, 
+      "salary": 3000, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Klay Thompson", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 18.5, 
+          "value": 18.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 38, 
+      "playerId": 202691, 
+      "position": "SG", 
+      "rosterSlotId": 38, 
+      "salary": 5900, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Stephen Curry", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 58.5, 
+          "value": 58.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 39, 
+      "playerId": 201939, 
+      "position": "PG/SG", 
+      "rosterSlotId": 39, 
+      "salary": 8600, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Kevon Looney", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 32.5, 
+          "value": 32.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 40, 
+      "playerId": 1626172, 
+      "position": "PF/C", 
+      "rosterSlotId": 40, 
+      "salary": 3600, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Andre Iguodala", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 7.5, 
+          "value": 7.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 41, 
+      "playerId": 2738, 
+      "position": "SG/SF", 
+      "rosterSlotId": 41, 
+      "salary": 4000, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Quinn Cook", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 5.75, 
+          "value": 5.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 42, 
+      "playerId": 1626188, 
+      "position": "PG", 
+      "rosterSlotId": 42, 
+      "salary": 3200, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Shaun Livingston", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 12.75, 
+          "value": 12.75
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 43, 
+      "playerId": 2733, 
+      "position": "PG", 
+      "rosterSlotId": 43, 
+      "salary": 3500, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Jordan Bell", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 4.5, 
+          "value": 4.5
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 44, 
+      "playerId": 1628395, 
+      "position": "PF/C", 
+      "rosterSlotId": 44, 
+      "salary": 4100, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Alfonzo McKinnie", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 0.0, 
+          "value": 0.0
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 45, 
+      "playerId": 1628035, 
+      "position": "SF/PF", 
+      "rosterSlotId": 45, 
+      "salary": 3000, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }, 
+    {
+      "displayName": "Jonas Jerebko", 
+      "draftStatAttributes": [
+        {
+          "id": 219, 
+          "sortValue": 3.25, 
+          "value": 3.25
+        }, 
+        {
+          "id": -2, 
+          "quality": "Medium", 
+          "sortValue": "n/a", 
+          "value": "n/a"
+        }
+      ], 
+      "draftableId": 46, 
+      "playerId": 201973, 
+      "position": "SF/PF", 
+      "rosterSlotId": 46, 
+      "salary": 3400, 
+      "teamAbbreviation": "Golden State", 
+      "teamId": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "draftGroup": {
+    "contestType": {
+      "contestTypeId": 37,
+      "sport": "NBA",
+      "gameType": "SalaryCap",
+      "allowLateSwap": true
+    }
+  }
+}

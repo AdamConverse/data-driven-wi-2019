@@ -38,6 +38,13 @@ def job_id(job_id):
 
   return jsonify({"data": job.result})
 
+@app.route('/run-simulations/<month>/<date>/<year>', methods=['GET'])
+def run_simulations(month, date, year):
+  date = "{}/{}/{}".format(month, date, year)
+  job = q.enqueue(tasks.run_simulations, date)
+  app.logger.info("Simulation Started. job_id: {}".format(job.id))
+  return "Simulation Started. \njob_id: {}".format(job.id)
+
 if __name__ == "__main__":
   port = int(os.environ.get('PORT', 8080))
   host = app.config["HOST"]
