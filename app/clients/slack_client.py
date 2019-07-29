@@ -8,11 +8,11 @@ class SlackClient:
     self.channel = os.environ["SLACK_CHANNEL_ID"]
 
   def post(self, num_games, date):
-    url = "https://data-driven-wi-2019.herokuapp.com/run-simulations/{}".format(date.strftime('%m/%d/%Y'))
+    url = "https://data-driven-wi-2019.herokuapp.com/run-simulations/{}".format(date)
     self.client.api_call(
       "chat.postMessage",
       channel=self.channel,
-      text="<!here> {} games slated for {}.".format(num_games, date.strftime('%A, %b %d')),
+      text="<!here> {} games slated for {}.".format(num_games, date),
       attachments= [
         {
           "fallback": "*Run Simulations:* {}".format(url),
