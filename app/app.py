@@ -28,6 +28,7 @@ def dropbox():
   app.logger.info("Dropbox webhook challenge: {}".format(request.args.get('challenge')))
   return request.args.get('challenge')
 
+@app.route('/dropbox-test', methods=['GET'])
 @app.route('/dropbox', methods=['POST'])
 def dropbox_update():
   app.logger.info("Webhook recieved")
