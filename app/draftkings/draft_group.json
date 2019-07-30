@@ -1,0 +1,48 @@
+{
+  "Contests": [
+    {
+      "uc": 0,
+      "ec": 0,
+      "mec": 150,
+      "fpp": 8,
+      "s": 4,
+      "n": "Sample File. Data is incomplete",
+      "attr": {
+        "IsGuaranteed": "true",
+        "IsStarred": "true"
+      },
+      "nt": 1097,
+      "m": 7352,
+      "a": 8,
+      "po": 50000,
+      "pd": {
+        "Cash": "50000"
+      },
+      "tix": false,
+      "sdstring": "Tue 7:00PM",
+      "sd": "/Date(1564527600000)/",
+      "id": 74560139,
+      "tmpl": 331834,
+      "pt": 1,
+      "so": -99999971,
+      "fwt": false,
+      "isOwner": false,
+      "startTimeType": 0,
+      "dg": 1,
+      "ulc": 0,
+      "cs": 1,
+      "gameType": "NBA",
+      "ssd": null,
+      "dgpo": 200250.2000,
+      "cso": 28,
+      "ir": 0,
+      "rl": false,
+      "rlc": 0,
+      "rll": 99999,
+      "sa": true,
+      "freeWithCrowns": false,
+      "crownAmount": 4400,
+      "isBonusFinalized": false
+    }
+  ]
+}
