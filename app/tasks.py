@@ -4,6 +4,7 @@ import time
 from datetime import datetime
 import pandas as pd
 from clients.draftkings_client import DraftkingsClient
+from clients.slack_client import SlackClient
 
 
 def my_task():
@@ -12,6 +13,13 @@ def my_task():
   return { "start_time": start_time, "end_time": datetime.now() }
 
 def post_to_slack():
+  dk_client = DraftkingsClient()
+  df = dk_client.get_available_players()
+
+  date = "07/30/2019"
+  slack_client = SlackClient()
+  if slack_client.has_posted(date) is None:
+    slack_client.post(num_games=len(df["teamAbbreviation"].unique())/2, date=date)
   return ""
 
 def run_simulations(date):
