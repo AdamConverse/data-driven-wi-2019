@@ -11,6 +11,9 @@ def my_task():
   time.sleep(3)
   return { "start_time": start_time, "end_time": datetime.now() }
 
+def post_to_slack():
+  return ""
+
 def run_simulations(date):
   dk_client = DraftkingsClient()
   df = dk_client.get_available_players()
