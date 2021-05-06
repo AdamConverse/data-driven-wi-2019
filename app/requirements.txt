@@ -3,7 +3,7 @@ requests==2.18.3
 python-dotenv==0.6.4
 pytest==3.2.0
 responses==0.7.0
-flask-cors==3.0.3
+flask-cors==3.0.9
 pandas==0.23.4
 dropbox==9.1.0
 xlrd==1.1.0
